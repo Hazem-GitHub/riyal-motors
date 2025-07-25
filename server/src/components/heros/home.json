@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_heros_homes",
+  "info": {
+    "displayName": "home"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "required": true
+    },
+    "shortDescription": {
+      "type": "text",
+      "required": false
+    },
+    "cta1": {
+      "type": "component",
+      "component": "elements.button",
+      "repeatable": false
+    },
+    "cta2": {
+      "type": "component",
+      "component": "elements.button",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_elements_buttons",
+  "info": {
+    "displayName": "button"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    },
+    "isExternal": {
+      "type": "boolean",
+      "required": true
+    }
+  },
+  "config": {}
+}

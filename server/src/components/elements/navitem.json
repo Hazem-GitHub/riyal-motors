@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_elements_navitems",
+  "info": {
+    "displayName": "navitem",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "isExternal": {
+      "type": "boolean",
+      "default": false
+    },
+    "label": {
+      "type": "string",
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "config": {}
+}

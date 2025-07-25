@@ -1,0 +1,10 @@
+{
+    "Home": {
+        "title": "Welcome to Riyal Motors",
+        "services": "Services",
+        "offerings": {
+            "title": "Explore Our Offerings",
+            "description": "Comprehensive leasing and rental solutions for you."
+        }
+    }
+}
